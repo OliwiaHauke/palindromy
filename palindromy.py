@@ -1,5 +1,7 @@
 def palindrom(word):
     return word == word[::-1]
+
+
 """
 Checks if the given word is a palindrom.
 
